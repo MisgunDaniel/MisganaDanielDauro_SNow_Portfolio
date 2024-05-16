@@ -124,7 +124,7 @@ header .content p{
     color: #ccc;
 }
 
-header .content{
+header .content span{
     display: inline-block;
     background-color: #1e40af;
     padding: 2px 9px;
