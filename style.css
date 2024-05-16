@@ -193,6 +193,7 @@ section .header{
     font-size: 1.75rem;
     color: #fff;
     border-radius: 5px;
+    margin: 0 auto;
 }
 
 .features .card h4{
