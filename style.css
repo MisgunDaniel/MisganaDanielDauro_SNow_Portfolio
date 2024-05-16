@@ -185,7 +185,7 @@ section .header{
     border-color: #fff;
 }
 
-/*.features .card span{
+.features .card span{
     display: inline-block;
     background-color: #1e40af;
     padding: 2px 9px;
@@ -194,7 +194,7 @@ section .header{
     color: #fff;
     border-radius: 5px;
     
-}*/
+}
 
 .features .card h4{
     margin-bottom: 0.5rem;
