@@ -126,7 +126,7 @@ header .content p{
 
 header .content span{
     display: inline-block;
-    background-color: #1e40af;
+    /*background-color: #1e40af;*/
     padding: 2px 9px;
     margin-bottom: 1rem;
     font-size: 1.75rem;
