@@ -124,6 +124,16 @@ header .content p{
     color: #ccc;
 }
 
+header .content span{
+    display: inline-block;
+    background-color: #1e40af;
+    padding: 2px 9px;
+    margin-bottom: 1rem;
+    font-size: 1.75rem;
+    color: #fff;
+    border-radius: 5px;
+}
+
 header .image{
     position: relative;
 }
